@@ -6,6 +6,7 @@
 	</path>
 
 Add Content
+	I add more content here
 
 	<target name="clean">
 		<delete dir="build" />
