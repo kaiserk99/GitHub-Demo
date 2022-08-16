@@ -5,9 +5,7 @@
 		</fileset>
 	</path>
 
-Add Content
-	I add more content here
-	Even more content
+Deleted some content
 
 	<target name="clean">
 		<delete dir="build" />
