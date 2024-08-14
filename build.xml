@@ -5,7 +5,7 @@
 		</fileset>
 	</path>
 
-//asdasd
+//asdas
 	
 	<target name="clean">
 		<delete dir="build" />
