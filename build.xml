@@ -4,6 +4,8 @@
 			<include name="*.jar" />
 		</fileset>
 	</path>
+
+//asdasd
 	
 	<target name="clean">
 		<delete dir="build" />
