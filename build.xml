@@ -5,7 +5,6 @@
 		</fileset>
 	</path>
 
-//valtoztatas
 	
 	<target name="clean">
 		<delete dir="build" />
